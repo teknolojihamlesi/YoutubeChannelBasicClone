@@ -1,0 +1,11 @@
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\YoutubeChannel\YoutubeChannel\bin\Debug\YoutubeChannel.exe.config
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\YoutubeChannel\YoutubeChannel\bin\Debug\YoutubeChannel.exe
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\YoutubeChannel\YoutubeChannel\bin\Debug\YoutubeChannel.pdb
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\YoutubeChannel\YoutubeChannel\obj\Debug\YoutubeChannel.csproj.AssemblyReference.cache
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\YoutubeChannel\YoutubeChannel\obj\Debug\YoutubeChannel.csproj.SuggestedBindingRedirects.cache
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\YoutubeChannel\YoutubeChannel\obj\Debug\YoutubeChannel.Form1.resources
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\YoutubeChannel\YoutubeChannel\obj\Debug\YoutubeChannel.Properties.Resources.resources
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\YoutubeChannel\YoutubeChannel\obj\Debug\YoutubeChannel.csproj.GenerateResource.cache
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\YoutubeChannel\YoutubeChannel\obj\Debug\YoutubeChannel.csproj.CoreCompileInputs.cache
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\YoutubeChannel\YoutubeChannel\obj\Debug\YoutubeChannel.exe
+D:\dosyalarim\ahmetgalip\Desktop\CSSMVC\YoutubeChannel\YoutubeChannel\obj\Debug\YoutubeChannel.pdb
